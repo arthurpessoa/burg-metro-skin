@@ -1,2 +1,2 @@
 # burg-metro-skin
-A Windows Metro-like Burg skin
+A Windows Metro Burg theme
